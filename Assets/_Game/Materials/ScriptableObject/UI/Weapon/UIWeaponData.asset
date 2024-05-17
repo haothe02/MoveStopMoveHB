@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 187cb84682c1cb4479aac29aebb94b25, type: 3}
+  m_Name: UIWeaponData
+  m_EditorClassIdentifier: 
+  _weaponUIPrefab:
+  - {fileID: 3550197381737638148, guid: 4a903ff821ecbdc4bad4db1b293e5d2c, type: 3}
+  - {fileID: 1492452838309882348, guid: 0c79aa3241d699f44925c01687f21759, type: 3}
+  - {fileID: 5931703612727914095, guid: 4449f693510617a489a4e93e7896bd69, type: 3}
+  - {fileID: 5886503988287267966, guid: 445c56b654b192e449ad3a81953818e8, type: 3}
+  - {fileID: 927225622262778768, guid: 84f6d18d51e30df4e95976f85a8236a3, type: 3}
+  - {fileID: 3756353676244786311, guid: 0c933c8f7b44cff48b9e5b556b476b78, type: 3}
+  - {fileID: 2285829895883076718, guid: 38ab3473ff4ad3148b5b1ad9beb369af, type: 3}
+  - {fileID: 2768736179378636614, guid: 9e1e6f539acf99c4c8eae81e11376922, type: 3}
+  - {fileID: 1882923564481352868, guid: d720b8b43bb41854ebdacb5c66628d08, type: 3}
+  - {fileID: 7272407898001293526, guid: f351349b7a7e95442a510c9772273cd0, type: 3}
+  - {fileID: 3730686072341408886, guid: b9d9044c525c81b468c436f6578f6029, type: 3}
+  - {fileID: 8896044964110774775, guid: e1ce280753aa3084696198052fc2db6b, type: 3}

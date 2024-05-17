@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a26c754cb668c5d4aa4c36b1182413d9, type: 3}
+  m_Name: Z
+  m_EditorClassIdentifier: 
+  _listData: []
+  _weaponPrefab: {fileID: 4315933057563092862, guid: 17b82d2131e35de4d85c5d8c01256369, type: 3}
+  _bulletPrefab: {fileID: 1345513373972929508, guid: 9686c6569d989994f9d0ca4ddc3c81d0, type: 3}
+  _weaponIcon: {fileID: 0}
+  _cost: 500
+  _attackSpeed: 6
